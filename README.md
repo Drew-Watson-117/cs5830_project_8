@@ -2,7 +2,18 @@
 
 ## Project Overview
 
+This is a short, exploratory project. You will find a dataset and apply both decision trees and neural networks to it for classification. You don't need to use the same explanatory variables for both types of classification but it will be helpful if at least some of the variables overlap.
+
+For the decision trees you should visualize at least two trees (using code we saw in class) at different maximum depths. Discuss the effect the depth has on bias and variance. Discuss the choices the algorithm makes in which attributes to split on. For example, at a given tree level do all nodes split on the same attribute? Why or why not?
+
+For the neural networks, you should try at least three different architectures with varying numbers of hidden layers and nodes in each layer. Visualize each architecture. You can use code included in the lecture neural networks code for visualization or you can use a different visualization system (this one
+Links to an external site. is pretty awesome). We used sklearn's implementation of neural networks in the example code, but you are welcome to use other implementations (e.g. TensorFlow) if you choose. Discuss any correlations you see, or the lack thereof, between your edge weights and the decision trees.
+
 ## Dataset Descriptions
+
+- `magic04.csv` - desc
+
+## File Structure
 
 - `project8.ipynb`: Jupyter notebook containing the analysis code
 
@@ -23,8 +34,6 @@ To set up the project environment:
 - You can modify and rerun the code cells to explore different hypotheses or perspectives.
 
 ## Analysis Techniques
-
-We used techniques such as Logistic Regression and standard vector machines, and its many kernels.
 
 ## Important Links
 
