@@ -28,6 +28,6 @@ We used techniques such as Logistic Regression and standard vector machines, and
 
 ## Important Links
 
-Report: [Google Docs](https://docs.google.com/document/d/1LeNb2LxBycM29FoDuisRACc8ZCfGCLcuMKZiCQEDb4Y/edit?usp=sharing
+Report: [Google Docs](https://docs.google.com/document/d/1LeNb2LxBycM29FoDuisRACc8ZCfGCLcuMKZiCQEDb4Y/edit?usp=sharing)
 
 Presentation Slides: [Google Slides](https://docs.google.com/presentation/d/16bRLBhz0mqSSapXtPEXU1Y5DJ6sv_ZR2g57epVFNawI/edit?usp=sharing)
